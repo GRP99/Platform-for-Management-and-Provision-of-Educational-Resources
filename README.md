@@ -1,6 +1,6 @@
 # Information Processing and Representation
 <div align="center">
-    <img src="view/public/images/favicon.png">
+    <img src="view/public/images/favicon.png" width="200" height="200">
     <h1>Platform for Management and Provision of Educational Resources</h1>
     <br>
 </div>
@@ -32,7 +32,7 @@
     1. Open terminal and access the following directory "[view-server](App/view-server)";
     2. Run <code>npm i</code>;
     3. Run <code>npm start</code>;
-    4. Check if API-Server is listening at the port 3002.
+    4. Check if View-Server is listening at the port 3002.
 ---
 ### Dependencies
 * **[Node](https://nodejs.org/en/)**
